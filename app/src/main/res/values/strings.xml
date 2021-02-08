@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Three button</string>
+    <string name="textButton1">Нажата первая кнопка</string>
+    <string name="textButton2">результат деления</string>
+    <string name="textButton3">Нажата третья кнопка</string>
 </resources>
